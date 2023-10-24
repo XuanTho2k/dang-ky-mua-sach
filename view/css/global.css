@@ -1,0 +1,49 @@
+
+    body {
+    margin: 0;
+    line-height: normal;
+  }
+    
+    
+      :root {
+
+/* fonts */
+--font-inter: Inter;
+--font-nunito-sans: 'Nunito Sans';
+
+/* font sizes */
+--font-size-smi: 0.81rem;
+--font-size-29xl: 3rem;
+--font-size-mini: 0.94rem;
+--font-size-7xl: 1.63rem;
+--font-size-base: 1rem;
+--font-size-lg: 1.13rem;
+--font-size-sm: 0.88rem;
+--font-size-3xl: 1.38rem;
+--font-size-5xl: 1.5rem;
+
+/* Colors */
+--color-whitesmoke: #f4f4f4;
+--color-tomato: #ed553b;
+--color-goldenrod: #f1ad28;
+--color-gray-100: #888;
+--color-gray-200: #7a7a7a;
+--color-gray-300: #111;
+--color-darkslategray: #173f5f;
+--color-gainsboro-100: #e0e0e0;
+--color-darkolivegreen: #74642f;
+--color-silver-100: #c8c8c8;
+--color-silver-200: #c4c4c4;
+--color-silver-300: #bebebe;
+--color-lavenderblush-100: #fcebea;
+--color-white: #fff;
+--color-black: #000;
+--color-darkslateblue-100: #393280;
+--color-linen: #eae8df;
+--color-lightgray: #d1d1d1;
+
+/* Border radiuses */
+--br-6xs: 7px;
+--br-3xs: 10px;
+
+}

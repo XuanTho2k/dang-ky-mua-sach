@@ -1,0 +1,238 @@
+.the-interior-has-a-armchair-on-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100rem;
+  height: 56.25rem;
+  object-fit: cover;
+}
+.your-logo {
+  position: absolute;
+  top: 1.94rem;
+  left: 2.63rem;
+  font-weight: 600;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background-color: rgba(255, 255, 255, 0.75);
+  width: 33.69rem;
+  height: 46.31rem;
+}
+.lorem {
+  font-weight: 600;
+  color: var(--color-olivedrab);
+}
+.welcome-to-lorem-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.have-an-account {
+  margin: 0;
+}
+.sign-in {
+  margin: 0;
+  color: var(--color-olivedrab);
+}
+input::placeholder {
+  position: absolute;
+  height: 20.65%;
+  width: 66.96%;
+  top: 58.7%;
+  left: 5.54%;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-gray-100);
+  display: inline-block;
+  margin: 1rem;
+
+}
+.have-an-account-container {
+  position: absolute;
+  top: 0.38rem;
+  left: 20.56rem;
+  font-size: 0.81rem;
+  color: #8d8d8d;
+}
+.welcome-to-lorem-parent {
+  position: absolute;
+  top: 2.75rem;
+  left: 2.75rem;
+  width: 28.19rem;
+  height: 2.88rem;
+}
+.sign-up {
+  margin: 0;
+  position: absolute;
+  top: 4.81rem;
+  left: 2.75rem;
+  font-size: 3.44rem;
+  font-weight: 500;
+  font-family: inherit;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--color-olivedrab);
+  box-shadow: 0 4px 19px rgba(119, 147, 65, 0.3);
+  width: 14.75rem;
+  height: 3.38rem;
+}
+.sign-up1 {
+  position: absolute;
+  top: 0.94rem;
+  left: 5.69rem;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 38rem;
+  left: 16.19rem;
+  width: 14.75rem;
+  height: 3.38rem;
+}
+.enter-your-username,
+.instance-child {
+  position: absolute;
+  top: -2.17%;
+  left: 0;
+}
+.instance-child {
+  border: 1px solid var(--color-dodgerblue);
+  background-color: var(--color-white);
+  height: 61.96%;
+  width: 100%;
+  top: 38.04%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+}
+.username-or-email {
+  position: absolute;
+  height: 20.65%;
+  width: 66.96%;
+  top: 58.7%;
+  left: 5.54%;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.enter-your-username-or-email-a-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 28.19rem;
+  height: 5.75rem;
+}
+.instance-item {
+  border: 1px solid var(--color-darkgray);
+  background-color: var(--color-white);
+  position: absolute;
+  height: 61.96%;
+  width: 100%;
+  top: 38.04%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+}
+.enter-your-password-parent {
+  position: absolute;
+  top: 15.5rem;
+  left: 0;
+  width: 28.19rem;
+  height: 5.75rem;
+}
+.component-child,
+.user-name {
+  position: absolute;
+  width: 129.34%;
+  left: 0;
+}
+.user-name {
+  top: 0;
+  display: inline-block;
+}
+.component-child {
+  border: 1px solid var(--color-darkgray);
+  background-color: var(--color-white);
+  height: 66.28%;
+  top: 33.72%;
+  right: -29.34%;
+  bottom: 0;
+  border-radius: var(--br-4xs);
+  box-sizing: border-box;
+}
+.user-name1 {
+  position: absolute;
+  width: 121.56%;
+  top: 56.98%;
+  left: 7.78%;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.contact-number-parent,
+.user-name-parent {
+  position: absolute;
+  top: 0;
+  width: 10.44rem;
+  height: 5.38rem;
+}
+.user-name-parent {
+  left: 0;
+}
+.contact-number-parent {
+  left: 14.69rem;
+}
+.component-parent {
+  position: absolute;
+  top: 7.94rem;
+  left: 0;
+  width: 25.13rem;
+  height: 5.38rem;
+}
+.instance-parent {
+  position: absolute;
+  top: 12.81rem;
+  left: 2.75rem;
+  width: 28.19rem;
+  height: 21.25rem;
+  font-size: var(--font-size-base);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 5rem;
+  left: 48.94rem;
+  width: 33.69rem;
+  height: 46.31rem;
+  font-size: 1.31rem;
+}
+.login-5-register {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 56.25rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.25rem;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
